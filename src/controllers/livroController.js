@@ -14,7 +14,7 @@ class LivroController {
     try {
         let livro = new livros(req.body);
         await livro.save(livro)
-        res.status(201).json(livro)
+        res.status(201).json("Livro cadastrado!")
     } catch (err) {
         res.status(500).send(`Algo deu errado - ${err}`)
     }
