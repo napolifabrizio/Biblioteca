@@ -30,6 +30,19 @@ class LivroController {
       res.status(500).send({message: `${error.message} - falha ao cadastrar livro`})
     }
   };
+
+  static deletarLivro = async (req, res) => {
+    const id = req.params.id;
+
+    try {
+      await livros.findByIdAndDelete(id)
+      res.status(200).send("Livro deletado com sucesso")
+    } catch (error) {
+      res.status(500).send({message: `${error.message} - falha ao deletar livro`})
+    }
+  };
+
+
 }
 
 export default LivroController;
