@@ -14,8 +14,10 @@ INDICE: EM DESENVOLVIMENTO
 <section>
 <h2><b>Descrição do Projeto</b></h2>
 
+Funciona com duas coleções na mesma Database do banco de dados - Mongo DB.
+
 <p>
-O projeto biblioteca tem como objetivo guardar informações de livros, por enquanto só informações como: titulo, autor e numero de páginas. Seu propósito é auxiliar o usuário para, seja guardar livros que futuramente irá comprar ou somente fazer uma lista de livros favoritos. O projeto guarda as informações e você escolhe o que fazer com elas.
+O projeto biblioteca tem como objetivo guardar informações de livros e autores, por enquanto só informações como: titulo do livro, autor, numero de páginas- para a coleção dos livros - e nome do autor, nacionalidade e ano de nascimento - para a coleção dos autores. Seu propósito é auxiliar o usuário para, seja guardar livros que futuramente irá comprar ou somente fazer uma lista de livros favoritos. O projeto guarda as informações e você escolhe o que fazer com elas.
 </p><br>
 </section>
 
@@ -23,13 +25,13 @@ O projeto biblioteca tem como objetivo guardar informações de livros, por enqu
 <h2><b>Funcionalidades</b></h2>
 
 <p>
- 1 - Listar Livros: Aqui você lista todos os livros salvos na coleção, com todas as informações que colocou.
+ 1 - Listar Livros/Autores: Aqui você lista todos os livros/autores salvos na coleção, com todas as informações que colocou.
 
- 2 - Cadastrar Livro: Aqui você cadastra o livro que quiser com os dados dele.
+ 2 - Cadastrar Livro/Autor: Aqui você cadastra o livro/autor que quiser com os dados dele.
 
- 3 - Atualizar Livro: Aqui você pode atualizar um dado, caso ele esteja errado ou por qualquer outro motivo.
+ 3 - Atualizar Livro/Autor: Aqui você pode atualizar um dado, caso ele esteja errado ou por qualquer outro motivo.
 
- 4 - Deletar Livro: Aqui você deleta o livro de sua coleção.
+ 4 - Deletar Livro/Autor: Aqui você deleta o livro/autor de sua coleção.
 </p>
 </section>
 
