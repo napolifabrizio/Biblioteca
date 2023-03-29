@@ -46,8 +46,9 @@ Dependências: mongoose, express e nodemon
 <section>
 <h2><b>Observações</b></h2>
 Dentro da pasta "src" existe outra chamada "config", onde ocorre a conexão com o banco de dados, nessa pasta está exposto o link feito para conectar diretamnete com o meu database no banco de dados, onde está o meu username e senha do projeto. Nesse caso, eu achei tranquilo deixar a senha exposta assim, pois não tem nenhum dado sigiloso lá, é tudo somente para estudo. Então, se você for fazer algo parecido e que segurança seja essencial, tenha cuidado em seu projeto.
+<br>
 
-![Imagem demonstracao](../../../../Downloads/ImagemGITHUB.png)
+![Imagem demonstracao](./imagensREADME/ImagemGITHUB.png)
 
 </section>
 
