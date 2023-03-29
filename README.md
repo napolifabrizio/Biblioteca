@@ -33,4 +33,25 @@ O projeto biblioteca tem como objetivo guardar informações de livros, por enqu
 </p>
 </section>
 
+<section>
+<h2><b>Tecnologias Utilizadas</b></h2>
+<p>
+Esse projeto foi feito somente com javascript, usando o framework Express do NodeJs, e o banco de dados Mongo DB.
+
+Dependências: mongoose, express e nodemon
+
+</p>
+</section>
+
+<section>
+<h2><b>Observações</b></h2>
+Dentro da pasta "src" existe outra chamada "config", onde ocorre a conexão com o banco de dados, nessa pasta está exposto o link feito para conectar diretamnete com o meu database no banco de dados, onde está o meu username e senha do projeto. Nesse caso, eu achei tranquilo deixar a senha exposta assim, pois não tem nenhum dado sigiloso lá, é tudo somente para estudo. Então, se você for fazer algo parecido e que segurança seja essencial, tenha cuidado em seu projeto.
+
+![Imagem demonstracao](../../../../Downloads/ImagemGITHUB.png)
+
+</section>
+
+
+
+
 
