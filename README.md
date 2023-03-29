@@ -45,11 +45,18 @@ Dependências: mongoose, express e nodemon
 
 <section>
 <h2><b>Observações</b></h2>
+<h3>
+Primeira:
+</h3>
 Dentro da pasta "src" existe outra chamada "config", onde ocorre a conexão com o banco de dados, nessa pasta está exposto o link feito para conectar diretamnete com o meu database no banco de dados, onde está o meu username e senha do projeto. Nesse caso, eu achei tranquilo deixar a senha exposta assim, pois não tem nenhum dado sigiloso lá, é tudo somente para estudo. Então, se você for fazer algo parecido e que segurança seja essencial, tenha cuidado em seu projeto.
 <br>
 
 ![Imagem demonstracao](./imagensREADME/ImagemGITHUB.png)
 
+<h3>
+Segunda:
+</h3>
+O projeto não possui frontend, ele é apenas backend onde é possivel utilizar em programas que dão suporte ás requisições feitas pela API, como o postman. Por enquanto não pretendo fazer frontend para o projeto.
 </section>
 
 
