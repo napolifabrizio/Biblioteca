@@ -4,14 +4,6 @@
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-desenvolvimento-yellow)
 
 <section>
-///////////////////
-
-INDICE: EM DESENVOLVIMENTO
-
-///////////////////
-</section>
-
-<section>
 <h2><b>Descrição do Projeto</b></h2>
 
 Funciona com duas coleções na mesma Database do banco de dados - Mongo DB.
